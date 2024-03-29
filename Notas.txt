@@ -1,0 +1,8 @@
+Tipo de fuente: poppins, bold, 55px
+Titulo: H3 (mismas caracteristicas), pero 33px
+Subtitulo: H6, mismas caracteristicas, 16px
+Parrafo: poppins, bold, regular, 16px
+Extra: poppins, semibold, 16px
+
+
+Header: menu y logo
